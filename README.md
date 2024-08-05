@@ -35,7 +35,14 @@ make
 wget https://huggingface.co/concedo/KobbleTinyV2-1.1B-GGUF/resolve/main/KobbleTiny-Q4_K.gguf
 
 
+8>
+
+
 koboldcpp.py --model KobbleTiny-Q4_K.gguf
+
+
+
+9>
 
 
 
